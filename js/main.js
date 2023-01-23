@@ -3,7 +3,7 @@ $('.slider__inner').slick({
 	arrows: false,
 	autoplay: true,
 	fade: true,
-	speed: 500,
+	speed: 300,
 })
 
 $('.about__slider').slick({
@@ -11,7 +11,7 @@ $('.about__slider').slick({
 	arrows: false,
 	autoplay: true,
 	fade: true,
-	speed: 500,
+	speed: 300,
 })
 
 var animateLeft = $('.about__left')
